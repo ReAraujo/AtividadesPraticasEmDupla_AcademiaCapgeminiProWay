@@ -11,16 +11,5 @@ public class Categoria extends Base {
         return retorno;
     }
 
-    @Override
-    public boolean equals(Object obj) {
-        if(obj instanceof Categoria){
-            Categoria outra = (Categoria)obj;
-            if(this.id == outra.id){
-                return true;
-            }
-        }
-        return false;
-    }
-
 
 }

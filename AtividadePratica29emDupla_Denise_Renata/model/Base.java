@@ -3,14 +3,17 @@ package model;
 public class Base {
     public int id;
 
-    // @Override
-    // public String toString() {
-    //     String retorno = "\n\tID: " + this.id;
-    //     return retorno;
-    // }
+    @Override
+    public boolean equals(Object obj) {
+        if(obj instanceof Base){
+            Base outra = (Base)obj;
+            if(this.id == outra.id){
+                return true;
+            }
+        }
+        return false;
+    }
 
-
-    
 
 
 }
