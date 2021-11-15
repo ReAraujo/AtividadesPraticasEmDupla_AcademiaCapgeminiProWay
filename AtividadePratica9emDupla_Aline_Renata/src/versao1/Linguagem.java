@@ -1,7 +1,6 @@
 package versao1;
 
 public class Linguagem {
-
     private String nomeLinguagem;
     private String descricao;
     private String aplicacao;
@@ -14,7 +13,6 @@ public class Linguagem {
         return nomeLinguagem;
     }
 
-
     public void setDescricao(String descricao){
         this.descricao = descricao;
     }
@@ -24,12 +22,10 @@ public class Linguagem {
     }
 
     public void setAplicacao(String aplicacao){
-
         this.aplicacao = aplicacao;
     }
 
     public String getAplicacao(){
-
         return aplicacao;
     }
 }

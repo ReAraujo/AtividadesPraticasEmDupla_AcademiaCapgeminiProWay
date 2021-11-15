@@ -32,8 +32,5 @@ public class BaseController<T> {
     // DELETE 
     public void delete(T obj){
         this.list.remove(obj);
-    }
-
-    
-    
+    } 
 }

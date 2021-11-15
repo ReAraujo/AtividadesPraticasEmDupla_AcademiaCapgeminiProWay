@@ -16,6 +16,4 @@ public class Produto extends Base {
                         this.categoria + "\n";
         return retorno;
     }
-
-
 }

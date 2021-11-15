@@ -3,8 +3,6 @@ import versao1.validacao.ValidaNome;
 import java.util.Scanner;
 
 public class AtividadeDupla {
-
-
     public static void main (String [] args) {
 
         int opcao = 0;

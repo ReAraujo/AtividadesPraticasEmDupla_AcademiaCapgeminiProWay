@@ -10,6 +10,4 @@ public class Categoria extends Base {
                         "\n\tNome categoria: " + this.nomeCategoria + "\n";
         return retorno;
     }
-
-
 }
