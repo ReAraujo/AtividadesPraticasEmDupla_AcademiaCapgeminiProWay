@@ -21,6 +21,7 @@ Repositório criado para armazenar as Atividades Práticas em Dupla sobre Java d
 Link slide Orientações da Atividade: <a href="https://docs.google.com/presentation/d/1lF5LRMInPeqRKtfS_2mKUC8RpE3icakqU0ROuclWnUU/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA 5<a/>
 <br />   
 Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_Java_EmDupla_AcademiaCapgeminiProWay/tree/main/AtividadePratica5emDupla_Talita_Renata/src">AtividadePratica5emDupla_Talita_Renata<a/>
+Link GitHub colega da dupla: <a href="https://github.com/srosaTalita">@Talita Rosa<a/>  
 <br />
 
 <h3>AtividadePratica7emDupla_Bruna_Renata</h3>
@@ -39,6 +40,7 @@ Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPrati
 Link slide Orientações da Atividade: <a href="https://docs.google.com/presentation/d/1Emva_v5TC60Xwwjv16QQhcJHbrVzulZvTn-to1xFNA8/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA 7<a/>
 <br />   
 Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_Java_EmDupla_AcademiaCapgeminiProWay/tree/main/AtividadePratica7emDupla_Bruna_Renata/src">AtividadePratica7emDupla_Bruna_Renata<a/>
+Link GitHub colega da dupla: <a href="https://github.com/brunacostta">@Bruna Costa Bittencourt<a/>   
 <br />
   
 <h3>AtividadePratica9emDupla_Aline_Renata</h3>
@@ -61,6 +63,7 @@ Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPrati
 Link slide Orientações da Atividade: <a href="https://docs.google.com/presentation/d/1Lp9yhWGNsG76BCf5gfn0vGE5fPyrzXk0G8yUVqO9fcE/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA 9<a/>
 <br />   
 Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_Java_EmDupla_AcademiaCapgeminiProWay/tree/main/AtividadePratica9emDupla_Aline_Renata/src/versao1">AtividadePratica9emDupla_Aline_Renata<a/>
+Link GitHub colega da dupla: <a href="https://github.com/aliribei">@Aline Ribeiro<a/>   
 <br />
   
 <h3>AtividadePratica29emDupla_Denise_Renata</h3>
@@ -78,4 +81,5 @@ Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPrati
 Link slide Orientações da Atividade: <a href="https://docs.google.com/presentation/d/1nzur4WYA6Y9iAko_elrhDifrL6MJeHrkfpfUUoY0DZk/edit#slide=id.gecd232fb99_0_0">ATIVIDADE PRÁTICA - 29<a/>
 <br />   
 Link resolução Atividade: <a href="https://github.com/ReAraujo/AtividadesPraticas_Java_EmDupla_AcademiaCapgeminiProWay/tree/main/AtividadePratica29emDupla_Denise_Renata">AtividadePratica29emDupla_Denise_Renata<a/>
+Link GitHub colega da dupla: <a href="https://github.com/deniseanjos">@Denise Anjos<a/>   
 <br />  
